@@ -8,7 +8,7 @@
 
 ---------------------------------------------------------------------
 ## step 1 : Scraping 
-####crawling.py
+#### crawling.py
 Scraping images from shutterstock.com website in order to fill our dataset with labeled images by gender.
 eventually our database contained over 70,000 labeled images.
 
